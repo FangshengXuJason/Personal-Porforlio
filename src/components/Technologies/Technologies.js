@@ -43,7 +43,7 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node MongoDB MySQl
+            Node MongoDB MySQl ASP.Net
           </ListParagraph>
         </ListContainer>
       </ListItem>
