@@ -22,7 +22,7 @@ const Hero = (props) => (
           🌱 I’m currently learning Software Architecture and API design <br />
           💞️ I’m looking for part-time and internship <br />
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        {/* <Button onClick={props.handleClick}>Learn More</Button> */}
       </LeftSection>
     </Section>
   </>
