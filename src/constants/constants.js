@@ -16,7 +16,7 @@ export const projects = [
     description:
       'Users can create polls, vote on polls, and view polls’ analytics. The website also have a simple log in and registration feature',
     image: '/images/pollerbear-front-page.PNG',
-    tags: ['ASP .Net', 'C#'],
+    tags: ['ASP .Net', 'C#', 'Bootstrap'],
     show_source_link: true,
     source: 'https://github.com/EdwinKaburu/JOLT', // source code
     show_visit_link: true,
