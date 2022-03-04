@@ -68,7 +68,8 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         👋 I’m a CS grad studnet at Seattle University <br />
-        👀 I’m interested in Web Dev, Cloud and Game Dev <br />
+        👀 I’m interested in Web Dev and Distributed System
+        <br />
         🌱 I’m currently learning Software Architecture and API design <br />
         💞️ I’m looking for part-time and internship <br />
       </SectionText>
