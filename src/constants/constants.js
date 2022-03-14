@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Web-based Werewolf Game',
     description:
-      'Werewolf is a role-playing multi-player social game. One player creates a game room, and the rest join the room. Players can interact in real-time, and the game flows like the in-person game.',
+      'Werewolf is a role-playing multi-player social game. One player creates a game room, and the rest join the room. Players can interact in real-time, and the game flows like an in-person game.',
     image: '/images/werewolf-front-page.PNG',
     tags: ['Mongo', 'Express', 'React', 'Node'],
     show_source_link: true,
@@ -12,9 +12,9 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Poller Bear Poll Service Website',
+    title: 'Poller Bear Poll Web Service',
     description:
-      'Users can create polls, vote on polls, and view polls’ analytics. The website also have a simple log in and registration feature',
+      'Users can create polls, vote on polls, and view polls’ analytics. The website has a simple log in and registration feature as well',
     image: '/images/pollerbear-front-page.PNG',
     tags: ['ASP .Net', 'C#', 'Bootstrap'],
     show_source_link: true,
@@ -24,9 +24,9 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Pacman Game and Search Algorithm',
+    title: 'Pacman Game Automated with Search Algorithm',
     description:
-      "Automate pacmans'decisoin making to eat power pullet with DFS, BFS and A* Search",
+      "Automate pacmans' decisoin making to eat power pullets with DFS, BFS and A* Search",
     image: '/images/pacman.png',
     tags: ['Search Algorithm', 'AI', 'Python'],
     show_source_link: true,
@@ -47,7 +47,7 @@ export const TimeLineData = [
     year: 2020.9,
     text: 'Started Master of Computer Science at Seattle University',
   },
-  { year: 2021.9, text: 'Started Poller Bear Voting Website' },
-  { year: 2021.1, text: 'Started Werewolf Game Project' },
+  { year: 2021.12, text: 'Built Poller Bear Voting Website' },
+  { year: 2021.11, text: 'Built Werewolf Game Project' },
   { year: 2022.3, text: 'Deployed My First Website' },
 ]
