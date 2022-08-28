@@ -47,7 +47,6 @@ export const TimeLineData = [
     year: 2020.9,
     text: 'Started Master of Computer Science at Seattle University',
   },
-  { year: 2021.12, text: 'Built Poller Bear Voting Website' },
-  { year: 2021.11, text: 'Built Werewolf Game Project' },
   { year: 2022.3, text: 'Deployed My First Website' },
+  { year: 2022.6, text: 'Start working at Hawx Smart Pest Control' },
 ]
