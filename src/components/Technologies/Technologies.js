@@ -30,7 +30,9 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            React.js <br />
+            React <br />
+            React Native <br />
+            Firebase<br />
             CSS <br />
             HTML <br />
           </ListParagraph>
@@ -43,7 +45,8 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Node.js and Express.js <br />
+            Node and Express <br />
+            Firebase <br />
             ASP.Net <br />
             MongoDB <br />
             MySQl <br />
