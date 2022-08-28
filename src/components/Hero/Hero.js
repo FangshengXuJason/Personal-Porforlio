@@ -18,10 +18,9 @@ const Hero = (props) => (
         </SectionTitle>
         <SectionText>
           👋 I’m a CS grad studnet at Seattle University <br />
-          💞️ I’m interested in Web Dev and Distributed System <br />
-          🌱 I’m currently learning Software Architecture and API Design <br />
-          👀 I’m looking for Part-Time Jobs and Internship/CO-OP Opportunies
-          <br />
+          💞️ I’m interested in Web Dev, Mobile Dev and Distributed System <br />
+          🌱 I’m currently learning Firebase and React Native<br />
+          👀 I’m looking full-time software engineering positions<br />
         </SectionText>
         {/* <Button onClick={props.handleClick}>Learn More</Button> */}
       </LeftSection>
