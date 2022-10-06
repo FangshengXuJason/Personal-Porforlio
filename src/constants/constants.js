@@ -1,8 +1,8 @@
 export const projects = [
     {
-    title: 'SU Pastry Ecommerce Site',
+    title: 'SU Pastry',
     description:
-      'SU Pastry is an ecommerce website. You browse all our tasty pastry and purchase them. I use stripe payment so you test it as well. Please check out my repo for more about testing the payment system',
+      'An ecommerce website selling pastries. You can browse pastries, add them to your carts and proceed to pay with Stripe payment service. Checkout more about how to test payment system in the readme section of the repo',
     image: '/images/ecommerce-home-page.PNG',
     tags: ['React', 'NextJS', 'Stripe', 'CSS', 'HTML5'],
     show_source_link: true,
