@@ -14,9 +14,9 @@ export const projects = [
   {
     title: 'Web-based Werewolf Game',
     description:
-      'Werewolf is a role-playing multi-player social game. One player creates a game room, and the rest join the room. Players can interact in real-time, and the game flows like an in-person game.',
+      'Werewolf is a role-playing multi-player social game. One player creates a game room, and the rest join the room. Players can interact in real-time, and the game flows like the in-person game with the same name.',
     image: '/images/werewolf-front-page.PNG',
-    tags: ['Mongo', 'Express', 'React', 'Node'],
+    tags: ['React', 'Node', 'Express'],
     show_source_link: true,
     source: 'https://github.com/pmh-3/Werewolf', // source code
     show_visit_link: true,
@@ -26,7 +26,7 @@ export const projects = [
   {
     title: 'Poller Bear Poll Web Service',
     description:
-      'Users can create polls, vote on polls, and view polls’ analytics. The website has a simple log in and registration feature as well',
+      'A website for users to vote and poll for ideas.. Users create polls, vote on polls, and view polls’ analytics. The website also has a simplified authentication and authorization feature we programmed from scratch',
     image: '/images/pollerbear-front-page.PNG',
     tags: ['ASP .Net', 'C#', 'Bootstrap','CSS', 'HTML5'],
     show_source_link: true,
@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'Pacman Game Automated with Search Algorithm',
     description:
-      "Automate pacmans' decisoin making to eat power pullets with DFS, BFS and A* Search",
+      "Automate pacmans' decisoin making to eat power pullets with DFS, BFS and A* Search in various scenarios",
     image: '/images/pacman.png',
     tags: ['Search Algorithm', 'AI', 'Python'],
     show_source_link: true,
