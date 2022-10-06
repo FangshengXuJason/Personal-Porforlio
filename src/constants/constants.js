@@ -16,7 +16,7 @@ export const projects = [
     description:
       'Werewolf is a role-playing multi-player social game. One player creates a game room, and the rest join the room. Players can interact in real-time, and the game flows like the in-person game with the same name.',
     image: '/images/werewolf-front-page.PNG',
-    tags: ['React', 'Node', 'Express'],
+    tags: ['React', 'Node', 'Express','CSS', 'HTML5'],
     show_source_link: true,
     source: 'https://github.com/pmh-3/Werewolf', // source code
     show_visit_link: true,
@@ -50,15 +50,9 @@ export const projects = [
 ]
 
 export const TimeLineData = [
-  {
-    year: 2020.6,
-    text: 'Graduated with a BS in E.E. from University of Washington',
-  },
-  { year: 2020.2, text: 'Interned at Tech Start-up BabelFlex' },
-  {
-    year: 2020.9,
-    text: 'Started Master of Computer Science at Seattle University',
-  },
-  { year: 2022.3, text: 'Started working as a Teaching Assistant at Seattle University' },
+  { year: 2020.6, text: 'Graduated from University of Washington with a BS in E.E.'},
+  { year: 2020.2, text: 'Started working as a Firmware Engineer at Tech Start-up BabelFlex' },
+  { year: 2020.9, text: 'Started MSCS at Seattle University'},
+  { year: 2022.3, text: 'Started TA-ing at Seattle University' },
   { year: 2022.6, text: 'Started working as a Software Engineer at Hawx Smart Pest Control' },
 ]
