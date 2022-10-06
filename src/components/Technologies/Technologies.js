@@ -21,7 +21,6 @@ const Technologies = () => (
     <SectionTitle>About Me</SectionTitle>
     <SectionText>
       I've worked with a range a technologies in the software engineering world.<br/>
-      From Back-end To Web Dev and Mobile Dev.<br/>
       I also have led groups of students and completed cool student projects.<br/>
     </SectionText>
     <List>
