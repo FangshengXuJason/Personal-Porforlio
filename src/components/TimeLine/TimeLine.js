@@ -65,12 +65,13 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
-      <SectionTitle>About Me</SectionTitle>
+      {/* <SectionTitle>About Me</SectionTitle> */}
       <SectionText>
-          👋 I’m a CS grad studnet at Seattle University <br />
+        Timeline
+          {/* 👋 I’m a CS grad student at Seattle University <br />
           💞️ I’m interested in Web Dev, Mobile Dev and Distributed System <br />
           🌱 I’m currently learning Firebase and React Native<br />
-          👀 I’m looking full-time software engineering positions<br />
+          👀 I’m looking full-time software engineering positions<br /> */}
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
