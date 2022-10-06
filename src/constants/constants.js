@@ -1,4 +1,16 @@
 export const projects = [
+    {
+    title: 'SU Pastry Ecommerce Site',
+    description:
+      'SU Pastry is an ecommerce website. You browse all our tasty pastry and purchase them. I use stripe payment so you test it as well. Please check out my repo for more about testing the payment system',
+    image: '/images/ecommerce-home-page.PNG',
+    tags: ['React', 'NextJS', 'Stripe', 'CSS', 'HTML5'],
+    show_source_link: true,
+    source: 'https://github.com/FangshengXuJason/ecommerce-nextjs-sanity-stripe.git', // source code
+    show_visit_link: true,
+    visit: 'https://ecommerce-nextjs-sanity-stripe-two.vercel.app/', // live site
+    id: 0,
+  },
   {
     title: 'Web-based Werewolf Game',
     description:
@@ -9,19 +21,19 @@ export const projects = [
     source: 'https://github.com/pmh-3/Werewolf', // source code
     show_visit_link: true,
     visit: 'https://www.werewolf.fun/', // live site
-    id: 0,
+    id: 1,
   },
   {
     title: 'Poller Bear Poll Web Service',
     description:
       'Users can create polls, vote on polls, and view polls’ analytics. The website has a simple log in and registration feature as well',
     image: '/images/pollerbear-front-page.PNG',
-    tags: ['ASP .Net', 'C#', 'Bootstrap'],
+    tags: ['ASP .Net', 'C#', 'Bootstrap','CSS', 'HTML5'],
     show_source_link: true,
     source: 'https://github.com/EdwinKaburu/JOLT', // source code
     show_visit_link: true,
     visit: 'https://5110jolt.azurewebsites.net/', // live site
-    id: 1,
+    id: 2,
   },
   {
     title: 'Pacman Game Automated with Search Algorithm',
@@ -33,7 +45,7 @@ export const projects = [
     source: 'https://github.com/FangshengXuJason/Searc-Algo-Pacman-Game', // source code
     show_visit_link: false,
     visit: 'https://github.com/FangshengXuJason/Searc-Algo-Pacman-Game', // live site
-    id: 2,
+    id: 3,
   },
 ]
 
@@ -47,6 +59,6 @@ export const TimeLineData = [
     year: 2020.9,
     text: 'Started Master of Computer Science at Seattle University',
   },
-  { year: 2022.3, text: 'Deployed My First Website' },
-  { year: 2022.6, text: 'Start working at Hawx Smart Pest Control' },
+  { year: 2022.3, text: 'Started working as a Teaching Assistant at Seattle University' },
+  { year: 2022.6, text: 'Started working as a Software Engineer at Hawx Smart Pest Control' },
 ]
