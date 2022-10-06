@@ -6,9 +6,9 @@ export const projects = [
     image: '/images/ecommerce-home-page.PNG',
     tags: ['React', 'NextJS', 'Stripe', 'CSS', 'HTML5'],
     show_source_link: true,
-    source: 'https://github.com/FangshengXuJason/ecommerce-nextjs-sanity-stripe.git', // source code
+    source: 'https://github.com/FangshengXuJason/SU-Pastry-Ecommerce', // source code
     show_visit_link: true,
-    visit: 'https://ecommerce-nextjs-sanity-stripe-two.vercel.app/', // live site
+    visit: 'https://su-pastry.vercel.app/', // live site
     id: 0,
   },
   {
