@@ -1,5 +1,6 @@
 import React from 'react'
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di'
+import { DiFirebase, DiReact, DiCodeigniter} from 'react-icons/di'
+
 import {
   Section,
   SectionDivider,
@@ -17,10 +18,11 @@ import {
 const Technologies = () => (
   <Section id='tech'>
     <SectionDivider divider />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>About Me</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the software engineering world.
-      From Back-end To Web Design
+      I've worked with a range a technologies in the software engineering world.<br/>
+      From Back-end To Web Dev and Mobile Dev.<br/>
+      I also have led groups of students and completed cool student projects.<br/>
     </SectionText>
     <List>
       <ListItem>
@@ -28,13 +30,14 @@ const Technologies = () => (
           <DiReact size='3rem' />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Front-End Tech</ListTitle>
           <ListParagraph>
             React <br />
             React Native <br />
             Firebase<br />
+            NextJS<br />
             CSS <br />
-            HTML <br />
+            HTML5 <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -43,24 +46,30 @@ const Technologies = () => (
           <DiFirebase size='3rem' />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Back-End Tech</ListTitle>
           <ListParagraph>
-            Node and Express <br />
+            NodeJS and Express <br />
             Firebase <br />
             ASP.Net <br />
             MongoDB <br />
             MySQl <br />
+            Stripe Payment <br />
+            Cloud Service<br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
-          <DiZend size='3rem' />
+          < DiCodeigniter size='3rem' />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Skills</ListTitle>
           <ListParagraph>
-            prototyping tools: Figma <br />
+            Leadership <br />
+            Problem Solving <br />
+            Product Management<br />
+            Scrume Master<br />
+            Agile Development <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
