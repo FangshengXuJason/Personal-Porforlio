@@ -17,7 +17,7 @@ const Hero = (props) => (
           I'm Fanghsheng Xu
         </SectionTitle>
         <SectionText>
-          👋 I’m a CS grad studnet at Seattle University <br />
+          👋 I’m a CS grad student at Seattle University <br />
           💞️ I’m interested in Web Dev, Mobile Dev and Distributed System <br />
           🌱 I’m currently learning Firebase and React Native<br />
           👀 I’m looking full-time software engineering positions<br />
