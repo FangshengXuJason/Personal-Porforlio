@@ -17,10 +17,10 @@ const Hero = (props) => (
           I'm Fanghsheng Xu
         </SectionTitle>
         <SectionText>
-          👋 I’m a CS grad student at Seattle University <br />
-          💞️ I’m interested in Web Dev, Mobile Dev and Distributed System <br />
-          🌱 I’m currently learning Firebase and React Native<br />
-          👀 I’m looking full-time software engineering positions<br />
+          👋 I’m a full-stack developer at Hawx Smart Pest Control <br />
+          🌱 I am part of the modernization process of a traditional company<br />
+          💞️ My specialty is in Web Dev, Mobile Dev and DB system. <br />
+          {/* 👀 Looking full-time software engineer positions <br /> */}
         </SectionText>
         {/* <Button onClick={props.handleClick}>Learn More</Button> */}
       </LeftSection>
