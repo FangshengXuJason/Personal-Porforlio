@@ -67,8 +67,9 @@ const Timeline = () => {
     <Section id='about'>
       {/* <SectionTitle>About Me</SectionTitle> */}
       <SectionText>
-        Timeline
-          {/* 👋 I’m a CS grad student at Seattle University <br />
+        Experiences
+        {/* Timeline */}
+        {/* 👋 I’m a CS grad student at Seattle University <br />
           💞️ I’m interested in Web Dev, Mobile Dev and Distributed System <br />
           🌱 I’m currently learning Firebase and React Native<br />
           👀 I’m looking full-time software engineering positions<br /> */}

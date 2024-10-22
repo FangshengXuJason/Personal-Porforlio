@@ -31,9 +31,9 @@ const Footer = () => {
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
-        <CompanyContainer>
+        {/* <CompanyContainer>
           <Slogan>Innovating one project at a time</Slogan>
-        </CompanyContainer>
+        </CompanyContainer> */}
         <SocialContainer>
           <SocialIcons href='https://github.com/FangshengXuJason'>
             <AiFillGithub size='3rem' />

@@ -1,5 +1,5 @@
 import React from 'react'
-import { DiFirebase, DiReact, DiCodeigniter} from 'react-icons/di'
+import { DiFirebase, DiReact, DiCodeigniter } from 'react-icons/di'
 
 import {
   Section,
@@ -20,8 +20,10 @@ const Technologies = () => (
     <SectionDivider divider />
     <SectionTitle>About Me</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the software engineering world.<br/>
-      I also have led groups of students and completed cool student projects.<br/>
+      I've worked with a range a technologies in the software engineering world.
+      <br />
+      I also have led groups of students and completed cool student projects.
+      <br />
     </SectionText>
     <List>
       <ListItem>
@@ -29,12 +31,14 @@ const Technologies = () => (
           <DiReact size='3rem' />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End Tech</ListTitle>
+          <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             React <br />
             React Native <br />
-            Firebase<br />
-            NextJS<br />
+            Firebase
+            <br />
+            NextJS
+            <br />
             CSS <br />
             HTML5 <br />
           </ListParagraph>
@@ -45,7 +49,7 @@ const Technologies = () => (
           <DiFirebase size='3rem' />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End Tech</ListTitle>
+          <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             NodeJS and Express <br />
             Firebase <br />
@@ -53,21 +57,24 @@ const Technologies = () => (
             MongoDB <br />
             MySQl <br />
             Stripe Payment <br />
-            Cloud Service<br />
+            Google Cloud Platform
+            <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
-          < DiCodeigniter size='3rem' />
+          <DiCodeigniter size='3rem' />
         </picture>
         <ListContainer>
           <ListTitle>Skills</ListTitle>
           <ListParagraph>
             Leadership <br />
             Problem Solving <br />
-            Product Management<br />
-            Scrume Master<br />
+            Product Management
+            <br />
+            Scrume Master
+            <br />
             Agile Development <br />
           </ListParagraph>
         </ListContainer>
